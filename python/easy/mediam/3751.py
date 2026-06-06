@@ -15,7 +15,7 @@ class Solution(object):
             for j in range(1,n-1):
                 if s[j]<s[j-1] and s[j]<s[j+1]:
                     count+=1
-                elif s[j]>s[j-1] and s[j]>s[j+1]:
+                elif s[j]>s[j-1] and s[j]>s[j+1]:c
                     count+=1
 
         return count
