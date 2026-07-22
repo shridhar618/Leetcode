@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shridhar618/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shridhar618/Leetcode/tree/master/0035-search-insert-position) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shridhar618/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shridhar618/Leetcode/tree/master/0001-two-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
