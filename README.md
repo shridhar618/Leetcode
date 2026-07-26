@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shridhar618/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shridhar618/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shridhar618/Leetcode/tree/master/0035-search-insert-position) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shridhar618/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shridhar618/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/shridhar618/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shridhar618/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shridhar618/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -69,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shridhar618/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
