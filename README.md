@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shridhar618/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shridhar618/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shridhar618/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shridhar618/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shridhar618/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shridhar618/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
