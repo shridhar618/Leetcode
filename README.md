@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/shridhar618/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shridhar618/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shridhar618/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shridhar618/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shridhar618/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shridhar618/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shridhar618/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shridhar618/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shridhar618/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shridhar618/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shridhar618/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
