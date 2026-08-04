@@ -6,7 +6,7 @@ class Solution:
         s=set(nums)
 
         ans=[]
-        for x in range(minimum+1, maximum):
+        for x in range(minimum, maximum):
             if x not in s:
                 ans.append(x)
 
