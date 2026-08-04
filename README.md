@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shridhar618/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shridhar618/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/shridhar618/Leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shridhar618/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shridhar618/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shridhar618/Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3731-find-missing-elements](https://github.com/shridhar618/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shridhar618/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shridhar618/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
