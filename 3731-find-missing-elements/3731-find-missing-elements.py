@@ -1,14 +1,14 @@
-class Solution:
-    def findMissingElements(self, nums: List[int]) -> List[int]:
-        minimum=min(nums)
-        maximum=max(nums)
-
+class Solution(object):
+    def findMissingElements(self, nums):
+        mn=min(nums)
+        mx=max(nums)
         s=set(nums)
+        res=[]
+        for i in range(mn,mx):
+            if i not in s:
+                res.append(i)
 
-        ans=[]
-        for x in range(minimum, maximum):
-            if x not in s:
-                ans.append(x)
+        return res
 
-        return ans
+                
         
