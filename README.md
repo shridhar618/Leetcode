@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shridhar618/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shridhar618/Leetcode/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shridhar618/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shridhar618/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shridhar618/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shridhar618/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/shridhar618/Leetcode/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shridhar618/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
