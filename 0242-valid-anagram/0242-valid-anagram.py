@@ -1,31 +1,24 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
+class Solution(object):
+    def isAnagram(self, s, t):
         if len(s)!=len(t):
             return False
-        
-        else:
-            freq1={}
-            freq2={}
 
-            for char in s:
-                if char in freq1:
-                    freq1[char]+=1
-                else:
-                    freq1[char]=1
-
-            for char in t:
-                if char in freq2:
-                    freq2[char]+=1
-                else:
-                    freq2[char]=1
-
-            if freq1==freq2:
-                return True
+        freq1={}
+        freq2={}
+        for char in s:
+            if char in freq1:
+                freq1[char]+=1
             else:
-                return False
-                
+                freq1[char]=1
 
+        for char in t:
+            if char in freq2:
+                freq2[char]+=1
+            else:
+                freq2[char]=1
 
-
-
-            
+        if freq1==freq2:
+            return True
+        else:
+            return False
+        
