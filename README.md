@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/shridhar618/Leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shridhar618/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shridhar618/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0817-linked-list-components](https://github.com/shridhar618/Leetcode/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/shridhar618/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shridhar618/Leetcode/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shridhar618/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/shridhar618/Leetcode/tree/master/0500-keyboard-row) |
+| [0817-linked-list-components](https://github.com/shridhar618/Leetcode/tree/master/0817-linked-list-components) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shridhar618/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shridhar618/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shridhar618/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shridhar618/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shridhar618/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0817-linked-list-components](https://github.com/shridhar618/Leetcode/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shridhar618/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
